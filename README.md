@@ -14,16 +14,21 @@ Analyze Shopify order and customer data to extract actionable insights that help
 
 ## Data Preparation Process ⚙️
 
-**Data Cleaning & Normalization:**  
-Used Excel and Power Query to standardize date formats, clean zip codes and city names, and ensure data types were consistent across the dataset.
-**ETL & Storage:**  
-Loaded cleaned Shopify order data into PostgreSQL with well-defined data types (e.g., timestamps, numerics, text).
-**Data Aggregation & Manipulation:**  
-Applied advanced SQL techniques including `GROUP BY`, `COUNT DISTINCT`, conditional filtering, and calculated KPIs to prepare analysis-ready tables.
-**Business Logic Implementation:**  
-Built SQL logic for customer classification (single vs. repeat), lifetime value calculation, purchase frequency, and region-level performance.
-**Visualization Setup:**  
-Developed interactive Power BI dashboards with card KPIs, slicers, dynamic filters, and drill-through tables for deep analysis.
+1. **Data Cleaning & Normalization:**  
+   Used Excel and Power Query to standardize date formats, clean zip codes and city names, and ensure data types were consistent across the dataset.
+
+2. **ETL & Storage:**  
+   Loaded cleaned Shopify order data into PostgreSQL with well-defined data types (e.g., timestamps, numerics, text).
+
+3. **Data Aggregation & Manipulation:**  
+   Applied advanced SQL techniques including `GROUP BY`, `COUNT DISTINCT`, conditional filtering, and calculated KPIs to prepare analysis-ready tables.
+
+4. **Business Logic Implementation:**  
+   Built SQL logic for customer classification (single vs. repeat), lifetime value calculation, purchase frequency, and region-level performance.
+
+5. **Visualization Setup:**  
+   Developed interactive Power BI dashboards with card KPIs, slicers, dynamic filters, and drill-through tables for deep analysis.
+
 
 ---
 
