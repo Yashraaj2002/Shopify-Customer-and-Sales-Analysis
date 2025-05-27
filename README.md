@@ -53,12 +53,12 @@ Developed interactive Power BI dashboards with card KPIs, slicers, dynamic filte
 ---
 
 ## 📊 Dashboard 1: Sales & Customer KPIs  
-![Dashboard 1]() 
+![Dashboard 1](https://github.com/Yashraaj2002/Shopify-Customer-and-Sales-Analysis/blob/main/Shopify%20Dashboard%201.png) 
 💡 Covers 8 core KPIs including Net Sales, Total Customers, Repeat Rate, AOV, Lifetime Value, Regional Sales, Product Performance, and Payment Gateway usage.
 
 ---
 
 ## 📋 Dashboard 2: Drillthrough Details  
-![Dashboard 2]()    
+![Dashboard 2](https://github.com/Yashraaj2002/Shopify-Customer-and-Sales-Analysis/blob/main/Shopify%20Dashboard%202.png)    
 💡 Interactive table for exploring individual order-level details such as order number, date, customer, product type, location, and revenue.
 
